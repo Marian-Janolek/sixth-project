@@ -181,7 +181,7 @@ img {
   position: absolute;
   top: 1.5rem;
   max-width: initial;
-  width: 275pv;
+  width: 275px;
   transform: var(--rotate-img);
 }
 .home_new {
